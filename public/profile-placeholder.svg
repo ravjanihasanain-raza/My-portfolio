@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640" preserveAspectRatio="xMidYMax slice">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="35%" r="60%"><stop offset="0" stop-color="#ff2d2d" stop-opacity=".35"/><stop offset="1" stop-color="#ff2d2d" stop-opacity="0"/></radialGradient>
+    <linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c1010"/><stop offset="1" stop-color="#070404"/></linearGradient>
+  </defs>
+  <rect width="600" height="640" fill="url(#g)"/>
+  <circle cx="300" cy="250" r="105" fill="url(#b)" stroke="#ff2d2d" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M70 640c0-130 90-210 230-210s230 80 230 210z" fill="url(#b)" stroke="#ff2d2d" stroke-opacity=".45" stroke-width="2"/>
+  <text x="300" y="590" text-anchor="middle" font-family="Inter,sans-serif" font-size="18" fill="#ff7b7b" fill-opacity=".8">Add your photo at public/profile.png</text>
+</svg>
